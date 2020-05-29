@@ -12,7 +12,7 @@
     display: block;
   }
  
-  .btnact{
+  .btnact2{
       border: 1px solid #c9c9cc !important;
       padding: 11px 20px !important;
       background: none !important;
@@ -23,7 +23,7 @@
       border-radius: 5px !important;
       margin: 0 10px !important;
       cursor: pointer !important;}
-      .btnact:focus{outline: none !important;
+      .btnact2:focus{outline: none !important;
           border: 1px solid #5D58F7 !;
       background-color: #5D58F7 !important;
   color: white !important;}
